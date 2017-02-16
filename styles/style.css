@@ -1,3 +1,8 @@
 h2 {
    color: darkblue;
 }
+p {
+  font-family: 'Sagoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
